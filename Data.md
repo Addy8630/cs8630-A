@@ -1,2 +1,2 @@
-The Federal reserve of St Louis maintain data of unemployemt citizens in the state from 1994 to 2024, peak of the graph was realized in April  2020 when unemployment rate was about 7.9% compared to past years.
+The Federal reserve of St Louis maintain data of unemployemt citizens in the state from 1994 to 2024, peak of the graph was realized in April  2020 when unemployment rate was about 7.9% compared to past years. it is a 2D dataset with a tiyle and axles labbeled.
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1uwOK&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
